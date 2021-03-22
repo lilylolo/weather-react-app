@@ -3,13 +3,17 @@ import SearchEngine from './SearchEngine'
 
 function App() {
   return (
+    <div>
     <div className="App">
-      <header className="App-header">
+      
         <h1>Weather App</h1>
-
+    
       <SearchEngine /> 
-      </header>
+    
     </div>
+
+    <footer><a href="https://github.com/lilylolo/weather-react-app" target="_blank">Open-source</a> code by Lily Lo</footer>
+  </div>
   );
 }
 
