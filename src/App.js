@@ -12,7 +12,7 @@ function App() {
     
     </div>
 
-    <footer><a href="https://github.com/lilylolo/weather-react-app" target="_blank">Open-source</a> code by Lily Lo</footer>
+    <footer><a href="https://github.com/lilylolo/weather-react-app" target="_blank" rel="noreferrer" >Open-source</a> code by Lily Lo</footer>
   </div>
   );
 }
